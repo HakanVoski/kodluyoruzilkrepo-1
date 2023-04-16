@@ -32,4 +32,7 @@ code.
 
 [MIT](https://github.com/hasretbayar/kodluyoruzilkrepo/blob/de93279e6e538ca01e10228cbb85e7b2ecfa0027/kodluyoruzilkrepo/LICENSE)
 
+<br>
+
+![proje resmi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 
