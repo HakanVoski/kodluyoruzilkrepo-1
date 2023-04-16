@@ -28,4 +28,8 @@ code.
 
 ```
 
+## License
+
+[MIT](https://github.com/hasretbayar/kodluyoruzilkrepo/blob/de93279e6e538ca01e10228cbb85e7b2ecfa0027/kodluyoruzilkrepo/LICENSE)
+
 
